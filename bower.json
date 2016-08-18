@@ -1,0 +1,17 @@
+{
+    "name": "dinah-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Blondina Elms Pastel"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/dinah-bower.git"
+    },
+    "description": "Dinah font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
